@@ -1,0 +1,6 @@
+[tool.vendoring]
+	destination = "_pieces_lib"
+	requirements = "vendor.txt"
+	namespace = "Pieces._pieces_lib"
+	protected-files = ["README.rst", "vendor.txt"]
+	patches-dir = "tools/vendoring/patches"

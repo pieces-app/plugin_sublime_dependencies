@@ -1,0 +1,8 @@
+pieces-os-client==2.7.0
+	aenum==3.1.15
+	six==1.16.0
+	urllib3==2.2.2
+	pydantic==1.10.15
+	python-dateutil==2.9.0.post0
+websocket-client==1.8.0
+semver==3.0.2
