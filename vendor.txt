@@ -1,4 +1,4 @@
-pieces-os-client==4.4.0
+pieces-os-client==4.4.1
 	aenum==3.1.15
 	six==1.16.0
 	urllib3==2.2.2
